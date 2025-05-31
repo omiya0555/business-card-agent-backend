@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+strands-agents
+python-multipart
+python-dotenv
